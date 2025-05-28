@@ -1,4 +1,4 @@
-# 📦 My Portfolio - React + Vite + Bootstrap 5
+# 📦 Setup - React + Vite + Tailwind CSS
 
 A modern, scalable React.js portfolio starter built with Vite, Bootstrap 5, and React Router DOM.
 
@@ -7,7 +7,7 @@ A modern, scalable React.js portfolio starter built with Vite, Bootstrap 5, and 
 ## 🚀 Features
 
 - ⚡ Fast development using [Vite](https://vitejs.dev/)
-- 🎨 Styling with [Bootstrap 5](https://getbootstrap.com/)
+- 🎨 Styling with [Tailwind CSS](https://tailwindcss.com/docs/)
 - 🌐 Page navigation with [React Router](https://reactrouter.com/)
 - 🧱 Modular file structure for scalability
 - 🧠 Easy to extend with services, store, and more
