@@ -14,6 +14,17 @@ export default function Home() {
           <p className="text-sm text-gray-600">A brief description of your second project.</p>
         </div>
       </div>
+
+      <h1 className="text-primary font-heading text-3xl">Welcome!</h1>
+
+    <p className="text-secondary font-sans">
+    This is a paragraph styled with Tailwind's custom theme.
+    </p>
+
+    <button className="bg-accent hover:bg-amber-600 text-white px-4 py-2 rounded">
+    Click Me
+    </button>
+
     </div>
   )
 }
